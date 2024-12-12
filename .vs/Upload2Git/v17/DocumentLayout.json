@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\Upload2Git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3EBFD5-0190-4E3C-976E-AB8036D236F0}|Upload2Git.vcxproj|D:\\source\\Upload2Git\\Upload2Git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C3EBFD5-0190-4E3C-976E-AB8036D236F0}|Upload2Git.vcxproj|solutionrelative:Upload2Git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload2Git.cpp",
+              "DocumentMoniker": "D:\\source\\Upload2Git\\Upload2Git.cpp",
+              "RelativeDocumentMoniker": "Upload2Git.cpp",
+              "ToolTip": "D:\\source\\Upload2Git\\Upload2Git.cpp",
+              "RelativeToolTip": "Upload2Git.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T23:58:56.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  Upload2Git.cpp
+D:\source\Upload2Git\Upload2Git.cpp(45,57): warning C4474: 'sprintf' : trop d'arguments passés pour la chaîne de format
+      D:\source\Upload2Git\Upload2Git.cpp(45,57):
+      les espaces réservés et leurs paramètres attendent des arguments 3 variadiques, mais des arguments 4 ont été fournis
+  
+  Upload2Git.vcxproj -> D:\source\Upload2Git\x64\Debug\Upload2Git.exe
